@@ -1,5 +1,5 @@
 # Trabajo Practivo 0
-## *Algoritmos y Programación III - FIUBA - Cátedra Méndez* 
+## *Algoritmos y Programación III - FIUBA - Cátedra Suárez* 
 ### Autor: Andrés Kübler
 #
 
