@@ -4,10 +4,12 @@
 #
 
 ##  **1. Objetivo**
-Este trabajo tiene como objetivo que el alumno comience a familiarizarse con las herramientas a utilizar a lo largo de la materia,
-tales como **Smaltalk** y **Pharo**.
+Este trabajo práctico tiene como objetivo que los alumnos se familiaricen con el entorno y la sintaxis de **Pharo Smalltalk**. Este trabajo no lleva calificación numérica y es de caracter opcional.
 
-## **2. Archivos**
+## **2. Consigna**
+El archivo asignado podrá abrirse con cualquier editor de texto y el contenido se deberá copiar en el Playground de Pharo. Se deberán implementar todas las clases necesarias para que el código del Playground pueda ejecutarse con éxito.
+
+## **3. Archivos**
 Enunciados:
  - TP0_v1_enucniado.txt
  - TP0_v2_enucniado.txt
@@ -19,7 +21,7 @@ Resoluciones:
 Estos archivos son los importables/exportables que podemos cargar en la imagen de **Pharo** y obtener la implementacion.<br>
 Para exportarlos, podemos hacerlo realizando un ``file out``
 
-## **3. Resultado esperado**
+## **4. Resultado esperado**
 El resultado esperado de la implementacion es:
 
 ``Transcript show: 'Resultado final: OK'.``
