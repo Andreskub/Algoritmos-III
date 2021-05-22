@@ -11,9 +11,9 @@ Se deberá desarrollar un modelo de clases utilizando la metodología TDD. Las e
 
 ## **Entrega**
 La entrega del Trabajo Practico consiste en los siguientes archivos:
-- tp1-105238.st
+- tp1.st
 >Implementación
-- tp1-105239-test.st
+- tp1-my-test.st
 >Pruebas proporcionadas por el alumno
 - tp1-test.st
 >Pruebas de la Cátedra
